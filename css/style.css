@@ -1,0 +1,237 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+/* =================================
+    header part start
+==================================== */
+
+
+header {
+    padding: 20px 0;
+}
+
+header .item {
+    position: relative;
+    padding-left: 50px;
+    border-right: 1px solid #EA3A60;
+}
+
+header .lastborder {
+    border: 0;
+}
+
+
+header .item i {
+    font-size: 25px;
+    color: #EA3A60;
+    position: absolute;
+    top: 12px;
+    left: 0;
+}
+
+header .item p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+
+header .item .number {
+    color: #000;
+}
+
+header .icon {
+    text-align: right;
+    font-size: 25px;
+    color: #EA3A60;
+    margin-top: 10px;
+}
+
+header .icon i {
+    margin-left: 20px;
+}
+
+/* =================================
+    header part end
+==================================== */
+
+/* =================================
+    nav part start
+==================================== */
+nav {
+    background: #EA3A60;
+}
+
+nav ul li a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff !important;
+}
+
+nav ul .dropdown .dropdown-menu a {
+    color: #000 !important;
+}
+
+/* =================================
+    nav part end
+==================================== */
+
+/* =================================
+    banner part start
+==================================== */
+#banner-part {
+    background: url(../images/banner.png) no-repeat center;
+    background-size: cover;
+
+}
+
+#banner-part .overlay {
+    width: 100%;
+    height: 100%;
+    background: rgba(61, 45, 45, .45);
+    padding: 100px 0;
+}
+
+#banner-part .overlay .info-box {
+    width: 665px;
+    background: #EA3A60;
+    padding: 100px;
+    color: #fff;
+}
+
+#banner-part .overlay .info-box p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+#banner-part .overlay .info-box .details {
+    font-size: 17px;
+}
+
+#banner-part .overlay .info-box h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    margin: 37px 0;
+}
+
+#banner-part .overlay .info-box a {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 37px;
+    margin-right: 20px;
+    transition: .4s;
+}
+
+#banner-part .overlay .info-box a:hover {
+    background: #fff;
+    color: #EA3A60;
+
+}
+
+/* =================================
+    banner part end
+==================================== */
+
+/* =================================
+    solution part start
+==================================== */
+#solution-part {
+    margin-top: 100px;
+}
+
+#solution-part img {
+    width: 100%;
+}
+
+#solution-part .years {
+    background: #EA3A60;
+    color: #fff;
+    text-align: center;
+}
+
+#solution-part .years h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    font-weight: 900;
+}
+
+#solution-part .years h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    font-weight: 900;
+}
+
+#solution-part .years p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+
+#solution-part h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    color: #000;
+}
+
+#solution-part .line {
+    width: 128px;
+    height: 4px;
+    background: #EA3A60;
+    margin-top: 20px;
+}
+
+#solution-part .details p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 30px 0;
+}
+
+
+#solution-part .details a {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #EA3A60;
+    border: 1px solid #EA3A60;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 37px;
+    margin-right: 20px;
+    transition: .4s;
+}
+
+#solution-part .details a:hover {
+    background: #EA3A60;
+    color: #fff;
+
+}
+
+
+/* =================================
+    solution part end
+==================================== */
