@@ -235,3 +235,143 @@ nav ul .dropdown .dropdown-menu a {
 /* =================================
     solution part end
 ==================================== */
+
+
+/* =================================
+    banner part end
+==================================== */
+
+/* =================================
+    choose part start
+==================================== */
+#choose-part {
+    margin-top: 100px;
+    position: relative;
+}
+
+#choose-part img {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+#choose-part h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    color: #000;
+    width: 365px;
+}
+
+#choose-part .line {
+    width: 128px;
+    height: 4px;
+    background: #EA3A60;
+    margin-top: 20px;
+}
+
+#choose-part .details p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 30px 0;
+    width: 512px;
+}
+
+#choose-part .details .list {
+    position: relative;
+    padding-left: 73px;
+    box-sizing: border-box;
+}
+
+#choose-part .details .list i {
+    font-size: 18px;
+    width: 55px;
+    height: 55px;
+    background: #EA3A60;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 55px;
+    position: absolute;
+    top: 15px;
+    left: 0;
+}
+
+
+
+#choose-part .details .list h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+
+}
+
+#choose-part .details .list p {
+    margin-top: 15px;
+    width: 378px;
+}
+
+
+
+/* =================================
+    choose part end
+==================================== */
+
+/* =================================
+    offer part start
+==================================== */
+#offer-part {
+    background: #F8F8F8;
+    margin-top: 100px;
+    padding: 100px 0;
+}
+
+#offer-part h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    width: 290px;
+}
+
+#offer-part .titledetails {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    width: 607px;
+    border-left: 4px solid #EA3A60;
+    padding-left: 20px;
+}
+
+#offer-part .item {
+    background: #fff;
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 40px;
+}
+
+#offer-part .item i {
+    font-size: 38px;
+    color: #EA3A60;
+}
+
+#offer-part .item h4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    margin: 30px 0;
+}
+
+#offer-part .item p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    width: 305px;
+    margin: 0 auto;
+
+}
+
+/* =================================
+    offer part end
+==================================== */
